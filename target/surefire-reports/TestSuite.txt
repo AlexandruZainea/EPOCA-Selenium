@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.087 s <<< FAILURE! - in TestSuite
+searchResults(com.selenium.template.tests.APScheduledProcessesTests)  Time elapsed: 4.06 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.selenium.template.tests.APScheduledProcessesTests.searchResults(APScheduledProcessesTests.java:40)
+

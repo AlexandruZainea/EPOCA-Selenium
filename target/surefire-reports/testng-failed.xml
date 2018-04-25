@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]" parallel="methods">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)" parallel="methods">
+    <groups>
+      <run>
+        <include name="Test"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.selenium.template.tests.APScheduledProcessesTests">
+        <methods>
+          <include name="instantiateDriverObject"/>
+          <include name="searchResults"/>
+          <include name="closeDriverObjects"/>
+          <include name="clearCookies"/>
+        </methods>
+      </class> <!-- com.selenium.template.tests.APScheduledProcessesTests -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

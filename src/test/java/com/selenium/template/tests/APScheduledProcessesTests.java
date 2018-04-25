@@ -32,7 +32,7 @@ public class APScheduledProcessesTests extends DriverBase {
 
     private static WebDriver driver;
 
-    @Test
+    @Test(groups = "Test")
     public void searchResults ()  {
 
 //        driver.manage().window().maximize();
