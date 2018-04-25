@@ -9,7 +9,6 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Listeners;
 
-import java.net.MalformedURLException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -21,7 +20,7 @@ public class DriverBase {
     private static ThreadLocal<DriverFactory> driverFactory;
 
     @BeforeSuite(alwaysRun = true)
-    public static void instantiateDriverObject() throws MalformedURLException {
+    public static void instantiateDriverObject() {
         driverFactory = new ThreadLocal<DriverFactory>() {
             @Override
             protected DriverFactory initialValue() {
@@ -30,7 +29,6 @@ public class DriverBase {
                 return driverFactory;
             }
         };
-
     }
 
     public static RemoteWebDriver getDriver() throws Exception {

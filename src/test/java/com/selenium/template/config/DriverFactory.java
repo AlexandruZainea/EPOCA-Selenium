@@ -44,6 +44,7 @@ public class DriverFactory {
         if (null == driver) {
             instantiateWebDriver(selectedDriverType);
         }
+
         return driver;
     }
 

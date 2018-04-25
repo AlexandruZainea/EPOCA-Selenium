@@ -1,124 +1,124 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 30, Failures: 30, Errors: 0, Skipped: 0, Time elapsed: 5.637 s <<< FAILURE! - in TestSuite
-changeStatus(com.selenium.template.tests.APScheduledProcessesTests)  Time elapsed: 1.734 s  <<< FAILURE!
+Tests run: 30, Failures: 30, Errors: 0, Skipped: 0, Time elapsed: 14.389 s <<< FAILURE! - in TestSuite
+changeStatus(com.selenium.template.tests.APScheduledProcessesTests)  Time elapsed: 3.851 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.APScheduledProcessesTests.changeStatus(APScheduledProcessesTests.java:94)
 
-clickOnDetails1stRow(com.selenium.template.tests.APScheduledProcessesTests)  Time elapsed: 0.045 s  <<< FAILURE!
+clickOnDetails1stRow(com.selenium.template.tests.APScheduledProcessesTests)  Time elapsed: 0.251 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.APScheduledProcessesTests.clickOnDetails1stRow(APScheduledProcessesTests.java:69)
 
-searchResults(com.selenium.template.tests.APScheduledProcessesTests)  Time elapsed: 0.034 s  <<< FAILURE!
+searchResults(com.selenium.template.tests.APScheduledProcessesTests)  Time elapsed: 0.272 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.APScheduledProcessesTests.searchResults(APScheduledProcessesTests.java:40)
 
-sortCheck(com.selenium.template.tests.APScheduledProcessesTests)  Time elapsed: 0.044 s  <<< FAILURE!
+sortCheck(com.selenium.template.tests.APScheduledProcessesTests)  Time elapsed: 0.252 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.APScheduledProcessesTests.sortCheck(APScheduledProcessesTests.java:134)
 
-addEntry(com.selenium.template.tests.CustomerExchangeRateTests)  Time elapsed: 0.037 s  <<< FAILURE!
+addEntry(com.selenium.template.tests.CustomerExchangeRateTests)  Time elapsed: 0.247 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.CustomerExchangeRateTests.addEntry(CustomerExchangeRateTests.java:43)
 
-CustomerSearchClear(com.selenium.template.tests.CustomerSearchTest)  Time elapsed: 0.022 s  <<< FAILURE!
+CustomerSearchClear(com.selenium.template.tests.CustomerSearchTest)  Time elapsed: 0.259 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.CustomerSearchTest.CustomerSearchClear(CustomerSearchTest.java:35)
 
-GenerateReport(com.selenium.template.tests.CustomerSearchTest)  Time elapsed: 0.029 s  <<< FAILURE!
+GenerateReport(com.selenium.template.tests.CustomerSearchTest)  Time elapsed: 0.248 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.CustomerSearchTest.GenerateReport(CustomerSearchTest.java:63)
 
-selectEntries(com.selenium.template.tests.CustomerSearchTest)  Time elapsed: 0.023 s  <<< FAILURE!
+selectEntries(com.selenium.template.tests.CustomerSearchTest)  Time elapsed: 0.255 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.CustomerSearchTest.selectEntries(CustomerSearchTest.java:117)
 
-addEntry(com.selenium.template.tests.CustomerSpecialTest)  Time elapsed: 0.018 s  <<< FAILURE!
+addEntry(com.selenium.template.tests.CustomerSpecialTest)  Time elapsed: 0.251 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.CustomerSpecialTest.addEntry(CustomerSpecialTest.java:142)
 
-addPopUp(com.selenium.template.tests.CustomerSpecialTest)  Time elapsed: 0.022 s  <<< FAILURE!
+addPopUp(com.selenium.template.tests.CustomerSpecialTest)  Time elapsed: 0.252 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.CustomerSpecialTest.addPopUp(CustomerSpecialTest.java:46)
 
-nextPage(com.selenium.template.tests.CustomerSpecialTest)  Time elapsed: 0.026 s  <<< FAILURE!
+nextPage(com.selenium.template.tests.CustomerSpecialTest)  Time elapsed: 0.249 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.CustomerSpecialTest.nextPage(CustomerSpecialTest.java:108)
 
-numberOfEntries(com.selenium.template.tests.CustomerSpecialTest)  Time elapsed: 0.02 s  <<< FAILURE!
+numberOfEntries(com.selenium.template.tests.CustomerSpecialTest)  Time elapsed: 0.263 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.CustomerSpecialTest.numberOfEntries(CustomerSpecialTest.java:74)
 
-addAnEntry(com.selenium.template.tests.CustomerVATTest)  Time elapsed: 0.021 s  <<< FAILURE!
+addAnEntry(com.selenium.template.tests.CustomerVATTest)  Time elapsed: 0.249 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.CustomerVATTest.addAnEntry(CustomerVATTest.java:45)
 
-deleteEntry(com.selenium.template.tests.CustomerVATTest)  Time elapsed: 0.021 s  <<< FAILURE!
+deleteEntry(com.selenium.template.tests.CustomerVATTest)  Time elapsed: 0.259 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.CustomerVATTest.deleteEntry(CustomerVATTest.java:82)
 
-loginFail_01(com.selenium.template.tests.FELoginFailTest)  Time elapsed: 0.023 s  <<< FAILURE!
+loginFail_01(com.selenium.template.tests.FELoginFailTest)  Time elapsed: 0.248 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.FELoginFailTest.loginFail_01(FELoginFailTest.java:39)
 
-LoginSuccessful(com.selenium.template.tests.FELoginTest)  Time elapsed: 0.022 s  <<< FAILURE!
+LoginSuccessful(com.selenium.template.tests.FELoginTest)  Time elapsed: 0.258 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.FELoginTest.LoginSuccessful(FELoginTest.java:38)
 
-reportHistory(com.selenium.template.tests.LeftSideMenuAPTest)  Time elapsed: 0.031 s  <<< FAILURE!
+reportHistory(com.selenium.template.tests.LeftSideMenuAPTest)  Time elapsed: 0.253 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftSideMenuAPTest.reportHistory(LeftSideMenuAPTest.java:42)
 
-reportTemplates(com.selenium.template.tests.LeftSideMenuAPTest)  Time elapsed: 0.022 s  <<< FAILURE!
+reportTemplates(com.selenium.template.tests.LeftSideMenuAPTest)  Time elapsed: 0.246 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftSideMenuAPTest.reportTemplates(LeftSideMenuAPTest.java:69)
 
-scheduledProcesses(com.selenium.template.tests.LeftSideMenuAPTest)  Time elapsed: 0.024 s  <<< FAILURE!
+scheduledProcesses(com.selenium.template.tests.LeftSideMenuAPTest)  Time elapsed: 0.249 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftSideMenuAPTest.scheduledProcesses(LeftSideMenuAPTest.java:96)
 
-bulkCreditLimit(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.024 s  <<< FAILURE!
+bulkCreditLimit(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.248 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftSideMenuCustomerTest.bulkCreditLimit(LeftSideMenuCustomerTest.java:150)
 
-customerSearch(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.02 s  <<< FAILURE!
+customerSearch(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.256 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftSideMenuCustomerTest.customerSearch(LeftSideMenuCustomerTest.java:42)
 
-exchangeRate(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.041 s  <<< FAILURE!
+exchangeRate(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.25 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftSideMenuCustomerTest.exchangeRate(LeftSideMenuCustomerTest.java:123)
 
-setupCreditLimit(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.025 s  <<< FAILURE!
+setupCreditLimit(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.253 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftSideMenuCustomerTest.setupCreditLimit(LeftSideMenuCustomerTest.java:176)
 
-specialCommission(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.018 s  <<< FAILURE!
+specialCommission(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.252 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftSideMenuCustomerTest.specialCommission(LeftSideMenuCustomerTest.java:69)
 
-vat(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.038 s  <<< FAILURE!
+vat(com.selenium.template.tests.LeftSideMenuCustomerTest)  Time elapsed: 0.254 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftSideMenuCustomerTest.vat(LeftSideMenuCustomerTest.java:96)
 
-documentMatching(com.selenium.template.tests.LeftsideMenuOMTest)  Time elapsed: 0.032 s  <<< FAILURE!
+documentMatching(com.selenium.template.tests.LeftsideMenuOMTest)  Time elapsed: 0.248 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftsideMenuOMTest.documentMatching(LeftsideMenuOMTest.java:98)
 
-nettingBalanceReport(com.selenium.template.tests.LeftsideMenuOMTest)  Time elapsed: 0.026 s  <<< FAILURE!
+nettingBalanceReport(com.selenium.template.tests.LeftsideMenuOMTest)  Time elapsed: 0.253 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftsideMenuOMTest.nettingBalanceReport(LeftsideMenuOMTest.java:125)
 
-nettingParameters(com.selenium.template.tests.LeftsideMenuOMTest)  Time elapsed: 0.057 s  <<< FAILURE!
+nettingParameters(com.selenium.template.tests.LeftsideMenuOMTest)  Time elapsed: 0.251 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftsideMenuOMTest.nettingParameters(LeftsideMenuOMTest.java:70)
 
-nettingTransactions(com.selenium.template.tests.LeftsideMenuOMTest)  Time elapsed: 0.02 s  <<< FAILURE!
+nettingTransactions(com.selenium.template.tests.LeftsideMenuOMTest)  Time elapsed: 0.265 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.LeftsideMenuOMTest.nettingTransactions(LeftsideMenuOMTest.java:41)
 
-reportIsShown(com.selenium.template.tests.OMYBalanceReportTest)  Time elapsed: 0.018 s  <<< FAILURE!
+reportIsShown(com.selenium.template.tests.OMYBalanceReportTest)  Time elapsed: 0.249 s  <<< FAILURE!
 java.lang.NullPointerException
 	at com.selenium.template.tests.OMYBalanceReportTest.reportIsShown(OMYBalanceReportTest.java:43)
 
