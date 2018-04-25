@@ -35,7 +35,6 @@ public class CustomerExchangeRateTests extends DriverBase {
 //
 //        capabillities.setBrowserName("chrome");
 //
-//        wait = new WebDriverWait(driver, 6000);
 //
 //    }
 

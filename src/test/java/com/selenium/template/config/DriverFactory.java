@@ -44,7 +44,6 @@ public class DriverFactory {
         if (null == driver) {
             instantiateWebDriver(selectedDriverType);
         }
-
         return driver;
     }
 
@@ -93,7 +92,7 @@ public class DriverFactory {
             }
 
             desiredCapabilities.setBrowserName(selectedDriverType.toString());
-            driver = new RemoteWebDriver(new URL("http://10.1.11.107:4444/wd/hub"), desiredCapabilities);
+            driver = new RemoteWebDriver(seleniumGridURL, desiredCapabilities);
         } else {
             Log4Test.info("================= GOING TO USE LOCAL =================");
             driver = driverType.getWebDriverObject(desiredCapabilities);

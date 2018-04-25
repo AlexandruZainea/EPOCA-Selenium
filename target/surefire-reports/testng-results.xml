@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="49" total="50" passed="0">
+<testng-results skipped="0" failed="30" ignored="20" total="50" passed="0">
   <reporter-output>
     <line>
       <![CDATA[INFO: " "]]>
@@ -14,28 +14,1513 @@
       <![CDATA[INFO: "Selected Browser: chrome"]]>
     </line>
     <line>
-      <![CDATA[INFO: "Connecting to Selenium Grid: false"]]>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
     </line>
     <line>
       <![CDATA[INFO: " "]]>
     </line>
     <line>
-      <![CDATA[INFO: "================= GOING TO USE LOCAL ================="]]>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Local Architecture: amd64"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Selected Browser: chrome"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: " "]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
     </line>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="4334" started-at="2018-04-24T15:15:42Z" finished-at="2018-04-24T15:15:46Z">
+  <suite name="Surefire suite" duration-ms="3257" started-at="2018-04-25T13:06:25Z" finished-at="2018-04-25T13:06:28Z">
     <groups>
       <group name="Test">
-        <method signature="APScheduledProcessesTests.searchResults()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@2f0e7fa8]" name="searchResults" class="com.selenium.template.tests.APScheduledProcessesTests"/>
+        <method signature="APScheduledProcessesTests.changeStatus()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="changeStatus" class="com.selenium.template.tests.APScheduledProcessesTests"/>
+        <method signature="APScheduledProcessesTests.clickOnDetails1stRow()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="clickOnDetails1stRow" class="com.selenium.template.tests.APScheduledProcessesTests"/>
+        <method signature="APScheduledProcessesTests.searchResults()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="searchResults" class="com.selenium.template.tests.APScheduledProcessesTests"/>
+        <method signature="APScheduledProcessesTests.sortCheck()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="sortCheck" class="com.selenium.template.tests.APScheduledProcessesTests"/>
+        <method signature="CustomerExchangeRateTests.addEntry()[pri:0, instance:com.selenium.template.tests.CustomerExchangeRateTests@50bb1c1f]" name="addEntry" class="com.selenium.template.tests.CustomerExchangeRateTests"/>
+        <method signature="CustomerSearchTest.CustomerSearchClear()[pri:0, instance:com.selenium.template.tests.CustomerSearchTest@39342614]" name="CustomerSearchClear" class="com.selenium.template.tests.CustomerSearchTest"/>
+        <method signature="CustomerSearchTest.GenerateReport()[pri:0, instance:com.selenium.template.tests.CustomerSearchTest@39342614]" name="GenerateReport" class="com.selenium.template.tests.CustomerSearchTest"/>
+        <method signature="CustomerSearchTest.selectEntries()[pri:0, instance:com.selenium.template.tests.CustomerSearchTest@39342614]" name="selectEntries" class="com.selenium.template.tests.CustomerSearchTest"/>
+        <method signature="CustomerSpecialTest.addEntry()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="addEntry" class="com.selenium.template.tests.CustomerSpecialTest"/>
+        <method signature="CustomerSpecialTest.addPopUp()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="addPopUp" class="com.selenium.template.tests.CustomerSpecialTest"/>
+        <method signature="CustomerSpecialTest.nextPage()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="nextPage" class="com.selenium.template.tests.CustomerSpecialTest"/>
+        <method signature="CustomerSpecialTest.numberOfEntries()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="numberOfEntries" class="com.selenium.template.tests.CustomerSpecialTest"/>
+        <method signature="CustomerVATTest.addAnEntry()[pri:0, instance:com.selenium.template.tests.CustomerVATTest@31e3c34]" name="addAnEntry" class="com.selenium.template.tests.CustomerVATTest"/>
+        <method signature="CustomerVATTest.deleteEntry()[pri:0, instance:com.selenium.template.tests.CustomerVATTest@31e3c34]" name="deleteEntry" class="com.selenium.template.tests.CustomerVATTest"/>
+        <method signature="FELoginFailTest.loginFail_01()[pri:0, instance:com.selenium.template.tests.FELoginFailTest@b4d83ac]" name="loginFail_01" class="com.selenium.template.tests.FELoginFailTest"/>
+        <method signature="FELoginTest.LoginSuccessful()[pri:0, instance:com.selenium.template.tests.FELoginTest@13d10057]" name="LoginSuccessful" class="com.selenium.template.tests.FELoginTest"/>
+        <method signature="LeftSideMenuAPTest.reportHistory()[pri:0, instance:com.selenium.template.tests.LeftSideMenuAPTest@66944c7c]" name="reportHistory" class="com.selenium.template.tests.LeftSideMenuAPTest"/>
+        <method signature="LeftSideMenuAPTest.reportTemplates()[pri:0, instance:com.selenium.template.tests.LeftSideMenuAPTest@66944c7c]" name="reportTemplates" class="com.selenium.template.tests.LeftSideMenuAPTest"/>
+        <method signature="LeftSideMenuAPTest.scheduledProcesses()[pri:0, instance:com.selenium.template.tests.LeftSideMenuAPTest@66944c7c]" name="scheduledProcesses" class="com.selenium.template.tests.LeftSideMenuAPTest"/>
+        <method signature="LeftSideMenuCustomerTest.bulkCreditLimit()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="bulkCreditLimit" class="com.selenium.template.tests.LeftSideMenuCustomerTest"/>
+        <method signature="LeftSideMenuCustomerTest.customerSearch()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="customerSearch" class="com.selenium.template.tests.LeftSideMenuCustomerTest"/>
+        <method signature="LeftSideMenuCustomerTest.exchangeRate()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="exchangeRate" class="com.selenium.template.tests.LeftSideMenuCustomerTest"/>
+        <method signature="LeftSideMenuCustomerTest.setupCreditLimit()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="setupCreditLimit" class="com.selenium.template.tests.LeftSideMenuCustomerTest"/>
+        <method signature="LeftSideMenuCustomerTest.specialCommission()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="specialCommission" class="com.selenium.template.tests.LeftSideMenuCustomerTest"/>
+        <method signature="LeftSideMenuCustomerTest.vat()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="vat" class="com.selenium.template.tests.LeftSideMenuCustomerTest"/>
+        <method signature="LeftsideMenuOMTest.documentMatching()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="documentMatching" class="com.selenium.template.tests.LeftsideMenuOMTest"/>
+        <method signature="LeftsideMenuOMTest.nettingBalanceReport()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="nettingBalanceReport" class="com.selenium.template.tests.LeftsideMenuOMTest"/>
+        <method signature="LeftsideMenuOMTest.nettingParameters()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="nettingParameters" class="com.selenium.template.tests.LeftsideMenuOMTest"/>
+        <method signature="LeftsideMenuOMTest.nettingTransactions()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="nettingTransactions" class="com.selenium.template.tests.LeftsideMenuOMTest"/>
+        <method signature="OMYBalanceReportTest.reportIsShown()[pri:0, instance:com.selenium.template.tests.OMYBalanceReportTest@6866e740]" name="reportIsShown" class="com.selenium.template.tests.OMYBalanceReportTest"/>
       </group> <!-- Test -->
     </groups>
-    <test name="Surefire test" duration-ms="4334" started-at="2018-04-24T15:15:42Z" finished-at="2018-04-24T15:15:46Z">
+    <test name="Surefire test" duration-ms="3257" started-at="2018-04-25T13:06:25Z" finished-at="2018-04-25T13:06:28Z">
+      <class name="com.selenium.template.tests.LeftsideMenuOMTest">
+        <test-method status="FAIL" signature="documentMatching()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="documentMatching" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftsideMenuOMTest.documentMatching(LeftsideMenuOMTest.java:98)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- documentMatching -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="nettingBalanceReport()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="nettingBalanceReport" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftsideMenuOMTest.nettingBalanceReport(LeftsideMenuOMTest.java:125)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nettingBalanceReport -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="nettingParameters()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="nettingParameters" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftsideMenuOMTest.nettingParameters(LeftsideMenuOMTest.java:70)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nettingParameters -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="nettingTransactions()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="nettingTransactions" duration-ms="2" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftsideMenuOMTest.nettingTransactions(LeftsideMenuOMTest.java:41)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nettingTransactions -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftsideMenuOMTest@73ae82da]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.selenium.template.tests.LeftsideMenuOMTest -->
+      <class name="com.selenium.template.tests.CustomerExchangeRateTests">
+        <test-method status="FAIL" signature="addEntry()[pri:0, instance:com.selenium.template.tests.CustomerExchangeRateTests@50bb1c1f]" name="addEntry" duration-ms="3" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.CustomerExchangeRateTests.addEntry(CustomerExchangeRateTests.java:43)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addEntry -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.CustomerExchangeRateTests@50bb1c1f]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.selenium.template.tests.CustomerExchangeRateTests -->
+      <class name="com.selenium.template.tests.LeftSideMenuAPTest">
+        <test-method status="FAIL" signature="reportHistory()[pri:0, instance:com.selenium.template.tests.LeftSideMenuAPTest@66944c7c]" name="reportHistory" duration-ms="2" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftSideMenuAPTest.reportHistory(LeftSideMenuAPTest.java:42)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reportHistory -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftSideMenuAPTest@66944c7c]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="reportTemplates()[pri:0, instance:com.selenium.template.tests.LeftSideMenuAPTest@66944c7c]" name="reportTemplates" duration-ms="2" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftSideMenuAPTest.reportTemplates(LeftSideMenuAPTest.java:69)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reportTemplates -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftSideMenuAPTest@66944c7c]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="scheduledProcesses()[pri:0, instance:com.selenium.template.tests.LeftSideMenuAPTest@66944c7c]" name="scheduledProcesses" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftSideMenuAPTest.scheduledProcesses(LeftSideMenuAPTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- scheduledProcesses -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftSideMenuAPTest@66944c7c]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.selenium.template.tests.LeftSideMenuAPTest -->
+      <class name="com.selenium.template.tests.FELoginFailTest">
+        <test-method status="FAIL" signature="loginFail_01()[pri:0, instance:com.selenium.template.tests.FELoginFailTest@b4d83ac]" name="loginFail_01" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.FELoginFailTest.loginFail_01(FELoginFailTest.java:39)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginFail_01 -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.FELoginFailTest@b4d83ac]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.selenium.template.tests.FELoginFailTest -->
+      <class name="com.selenium.template.tests.OMYBalanceReportTest">
+        <test-method status="FAIL" signature="reportIsShown()[pri:0, instance:com.selenium.template.tests.OMYBalanceReportTest@6866e740]" name="reportIsShown" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.OMYBalanceReportTest.reportIsShown(OMYBalanceReportTest.java:43)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reportIsShown -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.OMYBalanceReportTest@6866e740]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.selenium.template.tests.OMYBalanceReportTest -->
+      <class name="com.selenium.template.tests.FELoginTest">
+        <test-method status="FAIL" signature="LoginSuccessful()[pri:0, instance:com.selenium.template.tests.FELoginTest@13d10057]" name="LoginSuccessful" duration-ms="2" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.FELoginTest.LoginSuccessful(FELoginTest.java:38)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessful -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.FELoginTest@13d10057]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.selenium.template.tests.FELoginTest -->
+      <class name="com.selenium.template.tests.CustomerSpecialTest">
+        <test-method status="FAIL" signature="addEntry()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="addEntry" duration-ms="2" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.CustomerSpecialTest.addEntry(CustomerSpecialTest.java:142)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addEntry -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="addPopUp()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="addPopUp" duration-ms="3" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.CustomerSpecialTest.addPopUp(CustomerSpecialTest.java:46)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addPopUp -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="nextPage()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="nextPage" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.CustomerSpecialTest.nextPage(CustomerSpecialTest.java:108)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nextPage -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="numberOfEntries()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="numberOfEntries" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.CustomerSpecialTest.numberOfEntries(CustomerSpecialTest.java:74)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- numberOfEntries -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.CustomerSpecialTest@7981963f]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.selenium.template.tests.CustomerSpecialTest -->
       <class name="com.selenium.template.tests.APScheduledProcessesTests">
-        <test-method status="PASS" signature="instantiateDriverObject()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@2f0e7fa8]" name="instantiateDriverObject" is-config="true" duration-ms="30" started-at="2018-04-24T15:15:42Z" finished-at="2018-04-24T15:15:42Z">
+        <test-method status="PASS" signature="instantiateDriverObject()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="instantiateDriverObject" is-config="true" duration-ms="44" started-at="2018-04-25T13:06:25Z" finished-at="2018-04-25T13:06:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- instantiateDriverObject -->
-        <test-method status="FAIL" signature="searchResults()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@2f0e7fa8]" name="searchResults" duration-ms="141" started-at="2018-04-24T15:15:42Z" finished-at="2018-04-24T15:15:42Z">
+        <test-method status="FAIL" signature="changeStatus()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="changeStatus" duration-ms="137" started-at="2018-04-25T13:06:25Z" finished-at="2018-04-25T13:06:25Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.APScheduledProcessesTests.changeStatus(APScheduledProcessesTests.java:94)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- changeStatus -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="clickOnDetails1stRow()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="clickOnDetails1stRow" duration-ms="3" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.APScheduledProcessesTests.clickOnDetails1stRow(APScheduledProcessesTests.java:69)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnDetails1stRow -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="searchResults()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="searchResults" duration-ms="4" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -70,25 +1555,619 @@ at java.lang.Thread.run(Thread.java:748)
               <![CDATA[INFO: "Selected Browser: chrome"]]>
             </line>
             <line>
-              <![CDATA[INFO: "Connecting to Selenium Grid: false"]]>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
             </line>
             <line>
               <![CDATA[INFO: " "]]>
             </line>
             <line>
-              <![CDATA[INFO: "================= GOING TO USE LOCAL ================="]]>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
             </line>
           </reporter-output>
         </test-method> <!-- searchResults -->
-        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@2f0e7fa8]" name="clearCookies" is-config="true" duration-ms="69" started-at="2018-04-24T15:15:46Z" finished-at="2018-04-24T15:15:46Z">
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clearCookies -->
-        <test-method status="PASS" signature="closeDriverObjects()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@2f0e7fa8]" name="closeDriverObjects" is-config="true" duration-ms="668" started-at="2018-04-24T15:15:47Z" finished-at="2018-04-24T15:15:47Z">
+        <test-method status="FAIL" signature="sortCheck()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="sortCheck" duration-ms="3" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.APScheduledProcessesTests.sortCheck(APScheduledProcessesTests.java:134)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sortCheck -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="closeDriverObjects()[pri:0, instance:com.selenium.template.tests.APScheduledProcessesTests@1c05097c]" name="closeDriverObjects" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:29Z" finished-at="2018-04-25T13:06:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriverObjects -->
       </class> <!-- com.selenium.template.tests.APScheduledProcessesTests -->
+      <class name="com.selenium.template.tests.LeftSideMenuCustomerTest">
+        <test-method status="FAIL" signature="bulkCreditLimit()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="bulkCreditLimit" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftSideMenuCustomerTest.bulkCreditLimit(LeftSideMenuCustomerTest.java:150)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bulkCreditLimit -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="customerSearch()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="customerSearch" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftSideMenuCustomerTest.customerSearch(LeftSideMenuCustomerTest.java:42)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerSearch -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="exchangeRate()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="exchangeRate" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftSideMenuCustomerTest.exchangeRate(LeftSideMenuCustomerTest.java:123)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- exchangeRate -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="setupCreditLimit()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="setupCreditLimit" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftSideMenuCustomerTest.setupCreditLimit(LeftSideMenuCustomerTest.java:176)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupCreditLimit -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="specialCommission()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="specialCommission" duration-ms="1" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftSideMenuCustomerTest.specialCommission(LeftSideMenuCustomerTest.java:69)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- specialCommission -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="vat()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="vat" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.LeftSideMenuCustomerTest.vat(LeftSideMenuCustomerTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vat -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.LeftSideMenuCustomerTest@14993306]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.selenium.template.tests.LeftSideMenuCustomerTest -->
+      <class name="com.selenium.template.tests.CustomerVATTest">
+        <test-method status="FAIL" signature="addAnEntry()[pri:0, instance:com.selenium.template.tests.CustomerVATTest@31e3c34]" name="addAnEntry" duration-ms="3" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.CustomerVATTest.addAnEntry(CustomerVATTest.java:45)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addAnEntry -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.CustomerVATTest@31e3c34]" name="clearCookies" is-config="true" duration-ms="1" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="deleteEntry()[pri:0, instance:com.selenium.template.tests.CustomerVATTest@31e3c34]" name="deleteEntry" duration-ms="2" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.CustomerVATTest.deleteEntry(CustomerVATTest.java:82)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteEntry -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.CustomerVATTest@31e3c34]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:28Z" finished-at="2018-04-25T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.selenium.template.tests.CustomerVATTest -->
+      <class name="com.selenium.template.tests.CustomerSearchTest">
+        <test-method status="FAIL" signature="CustomerSearchClear()[pri:0, instance:com.selenium.template.tests.CustomerSearchTest@39342614]" name="CustomerSearchClear" duration-ms="3" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.CustomerSearchTest.CustomerSearchClear(CustomerSearchTest.java:35)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CustomerSearchClear -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.CustomerSearchTest@39342614]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="GenerateReport()[pri:0, instance:com.selenium.template.tests.CustomerSearchTest@39342614]" name="GenerateReport" duration-ms="2" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.CustomerSearchTest.GenerateReport(CustomerSearchTest.java:63)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- GenerateReport -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.CustomerSearchTest@39342614]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="FAIL" signature="selectEntries()[pri:0, instance:com.selenium.template.tests.CustomerSearchTest@39342614]" name="selectEntries" duration-ms="3" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+at com.selenium.template.tests.CustomerSearchTest.selectEntries(CustomerSearchTest.java:117)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Operating System: WINDOWS 10"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Local Architecture: amd64"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Selected Browser: chrome"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "Connecting to Selenium Grid: true"]]>
+            </line>
+            <line>
+              <![CDATA[INFO: " "]]>
+            </line>
+            <line>
+              <![CDATA[INFO: "================= GOING TO USE REMOTE ================="]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectEntries -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.selenium.template.tests.CustomerSearchTest@39342614]" name="clearCookies" is-config="true" duration-ms="0" started-at="2018-04-25T13:06:27Z" finished-at="2018-04-25T13:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+      </class> <!-- com.selenium.template.tests.CustomerSearchTest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
 </testng-results>
