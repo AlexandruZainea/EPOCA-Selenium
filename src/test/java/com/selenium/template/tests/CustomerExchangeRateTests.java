@@ -10,15 +10,11 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import org.testng.log4testng.Logger;
 
-import java.net.URL;
 import java.util.List;
 
 public class CustomerExchangeRateTests extends DriverBase {
@@ -31,19 +27,19 @@ public class CustomerExchangeRateTests extends DriverBase {
 
     private static WebDriver driver;
 
-    @BeforeClass
-    public void setup() throws Exception {
-        capabillities = DesiredCapabilities.chrome();
+//    @BeforeClass
+//    public void setup() throws Exception {
+//        capabillities = DesiredCapabilities.chrome();
+//
+//        driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabillities);
+//
+//        capabillities.setBrowserName("chrome");
+//
+//        wait = new WebDriverWait(driver, 6000);
+//
+//    }
 
-        driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabillities);
-
-        capabillities.setBrowserName("chrome");
-
-        wait = new WebDriverWait(driver, 6000);
-
-    }
-
-    @Test
+    @Test(groups = "Test")
     public void addEntry () throws Exception{
         driver.manage().window().maximize();
 

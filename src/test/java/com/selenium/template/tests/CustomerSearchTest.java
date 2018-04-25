@@ -29,7 +29,7 @@ public class CustomerSearchTest extends DriverBase {
     private static WebDriver driver;
 
 
-    @Test
+    @Test(groups = "Test")
     public void CustomerSearchClear () throws Exception{
 
         driver.manage().window().maximize();
@@ -57,7 +57,7 @@ public class CustomerSearchTest extends DriverBase {
     }
 
 
-    @Test
+    @Test(groups = "Test")
     public void GenerateReport () throws Exception {
 
         driver.manage().window().maximize();
@@ -111,7 +111,7 @@ public class CustomerSearchTest extends DriverBase {
 //        driver.quit();
 //    }
 
-    @Test
+    @Test(groups = "Test")
     public void selectEntries () throws Exception {
 
         driver.manage().window().maximize();

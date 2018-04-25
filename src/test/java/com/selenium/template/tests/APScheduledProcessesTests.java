@@ -64,7 +64,7 @@ public class APScheduledProcessesTests extends DriverBase {
 
     }
 
-    @Test
+    @Test(groups = "Test")
     public void clickOnDetails1stRow () throws MalformedURLException {
         driver.manage().window().maximize();
 
@@ -89,7 +89,7 @@ public class APScheduledProcessesTests extends DriverBase {
 
     }
 
-    @Test
+    @Test(groups = "Test")
     public void changeStatus () throws MalformedURLException {
         driver.manage().window().maximize();
 
@@ -128,7 +128,7 @@ public class APScheduledProcessesTests extends DriverBase {
 
     }
 
-    @Test
+    @Test(groups = "Test")
     public void sortCheck () throws MalformedURLException {
 
         driver.manage().window().maximize();

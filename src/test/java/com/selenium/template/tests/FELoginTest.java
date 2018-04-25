@@ -5,15 +5,10 @@ import com.selenium.template.automationFramework.TestData;
 import com.selenium.template.pageObjects.frontend.FELoginPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import org.testng.log4testng.Logger;
-
-import java.net.URL;
 
 public class FELoginTest extends DriverBase {
 
@@ -25,18 +20,18 @@ public class FELoginTest extends DriverBase {
 
     private static WebDriver driver;
 
-    @BeforeClass
-    public void setup() throws Exception {
-        capabillities = DesiredCapabilities.chrome();
-
-        driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabillities);
-
-        capabillities.setBrowserName("chrome");
-
-        wait = new WebDriverWait(driver, 6000);
-
-    }
-    @Test
+//    @BeforeClass
+//    public void setup() throws Exception {
+//        capabillities = DesiredCapabilities.chrome();
+//
+//        driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabillities);
+//
+//        capabillities.setBrowserName("chrome");
+//
+//        wait = new WebDriverWait(driver, 6000);
+//
+//    }
+    @Test(groups = "Test")
     public void LoginSuccessful () throws Exception {
 
 
