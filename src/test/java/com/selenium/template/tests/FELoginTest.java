@@ -18,7 +18,6 @@ public class FELoginTest extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
 
 //    @BeforeClass
 //    public void setup() throws Exception {
@@ -33,6 +32,7 @@ public class FELoginTest extends DriverBase {
 //    }
     @Test(groups = "Test")
     public void LoginSuccessful () throws Exception {
+        WebDriver driver = getDriver();
 
 
         driver.get(TestData.loginPage);

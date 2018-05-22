@@ -22,7 +22,7 @@ public class LeftSideMenuAPTest extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
+
 
 //    @BeforeClass
 //    public void setup() throws Exception {
@@ -38,6 +38,7 @@ public class LeftSideMenuAPTest extends DriverBase {
 
     @Test(groups = "Test")
     public void reportHistory () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -65,6 +66,7 @@ public class LeftSideMenuAPTest extends DriverBase {
 
     @Test(groups = "Test")
     public void reportTemplates () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -92,6 +94,7 @@ public class LeftSideMenuAPTest extends DriverBase {
 
     @Test(groups = "Test")
     public void scheduledProcesses () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 

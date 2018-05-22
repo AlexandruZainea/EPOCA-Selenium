@@ -26,7 +26,6 @@ public class CustomerSpecialTest extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
 
 //    @BeforeClass
 //    public void setup() throws Exception {
@@ -42,6 +41,7 @@ public class CustomerSpecialTest extends DriverBase {
 
     @Test(groups = "Test")
     public void addPopUp () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -70,6 +70,7 @@ public class CustomerSpecialTest extends DriverBase {
 
     @Test(groups = "Test")
     public void numberOfEntries() throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -104,6 +105,7 @@ public class CustomerSpecialTest extends DriverBase {
 
     @Test(groups = "Test")
     public void nextPage () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -138,6 +140,7 @@ public class CustomerSpecialTest extends DriverBase {
 
     @Test(groups = "Test")
     public void addEntry () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 

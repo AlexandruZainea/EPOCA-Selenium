@@ -26,11 +26,12 @@ public class CustomerSearchTest extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
+
 
 
     @Test(groups = "Test")
     public void CustomerSearchClear () throws Exception{
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -59,6 +60,7 @@ public class CustomerSearchTest extends DriverBase {
 
     @Test(groups = "Test")
     public void GenerateReport () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -113,6 +115,7 @@ public class CustomerSearchTest extends DriverBase {
 
     @Test(groups = "Test")
     public void selectEntries () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 

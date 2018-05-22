@@ -6,8 +6,8 @@ public class TestData {
 
     public static final int SHORT_WAIT = 5;
     public static final int LONG_WAIT = 20;
-    public static final String customerSearchEN = "http://10.1.11.107:9432/customer/search?lang=en";
-    public static final String customerSearchRO = "http://10.1.11.107:9432/customer/search?lang=ro";
+    public static final String customerSearchEN = "http://10.1.11.107:9432/customer/search";
+    public static final String customerSearchRO = "http://10.1.11.107:9432/customer/search";
     public static final String loginPage = "http://multiauthdev.office.orange.intra/SSO/SignIn.aspx?serviceName=EPOCA&serviceURL=http://localhost:9432/login/afterLogin";
 
     //Left-side Menu

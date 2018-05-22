@@ -25,7 +25,7 @@ public class CustomerVATTest extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
+
 
 //    @BeforeClass
 //    public void setup() throws Exception {
@@ -41,6 +41,7 @@ public class CustomerVATTest extends DriverBase {
 
     @Test(groups = "Test")
     public void addAnEntry () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -78,6 +79,7 @@ public class CustomerVATTest extends DriverBase {
 
     @Test(groups = "Test")
     public void deleteEntry () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 

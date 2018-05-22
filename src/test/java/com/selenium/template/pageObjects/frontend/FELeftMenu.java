@@ -146,6 +146,7 @@ public class FELeftMenu extends PageBase {
     private WebElement scheduledProcesses;
 
     public void clickApplicationProcesses () {
+        if (!scheduledProcesses.isDisplayed())
         CommonTask.moveToElement(driver, applicationProcesses, "Application Processes");
         CommonTask.clickElement(driver, applicationProcesses, "app processes");
     }
@@ -156,12 +157,12 @@ public class FELeftMenu extends PageBase {
     }
 
     public void clickReportTemplates () {
-        CommonTask.moveToElement(driver, reportTemplates, "Report Templates");
+//        CommonTask.moveToElement(driver, reportTemplates, "Report Templates");
         CommonTask.clickElement(driver, reportTemplates, "report templates");
     }
 
     public void clickScheduledProcesses () {
-        CommonTask.moveToElement(driver, scheduledProcesses, "Scheduled Processes");
+//        CommonTask.moveToElement(driver, scheduledProcesses, "Scheduled Processes");
         CommonTask.clickElement(driver, scheduledProcesses, "scheduledProcesses");
     }
 

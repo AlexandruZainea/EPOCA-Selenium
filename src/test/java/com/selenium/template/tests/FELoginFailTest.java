@@ -19,7 +19,7 @@ public class FELoginFailTest extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
+
 
 //    @BeforeClass
 //    public void setup() throws Exception {
@@ -35,6 +35,7 @@ public class FELoginFailTest extends DriverBase {
 
     @Test(groups = "Test")
     public void loginFail_01() throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 

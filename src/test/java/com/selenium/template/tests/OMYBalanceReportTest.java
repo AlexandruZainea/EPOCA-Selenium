@@ -23,7 +23,6 @@ public class OMYBalanceReportTest extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
 
 //    @BeforeClass
 //    public void setup() throws Exception {
@@ -39,6 +38,7 @@ public class OMYBalanceReportTest extends DriverBase {
 
     @Test(groups = "Test")
     public void reportIsShown () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 

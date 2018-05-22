@@ -21,7 +21,6 @@ public class LeftsideMenuOMTest extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
 
 //    @BeforeClass
 //    public void setup() throws Exception {
@@ -37,6 +36,7 @@ public class LeftsideMenuOMTest extends DriverBase {
 
     @Test(groups = "Test")
     public void nettingTransactions () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -66,6 +66,7 @@ public class LeftsideMenuOMTest extends DriverBase {
 
     @Test(groups = "Test")
     public void nettingParameters () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -94,6 +95,7 @@ public class LeftsideMenuOMTest extends DriverBase {
 
     @Test(groups = "Test")
     public void documentMatching ()throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -121,6 +123,7 @@ public class LeftsideMenuOMTest extends DriverBase {
 
     @Test(groups = "Test")
     public void nettingBalanceReport () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 

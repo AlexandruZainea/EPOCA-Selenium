@@ -28,7 +28,7 @@ public class ScheduledProcesses extends PageBase {
     @FindBy (xpath = "//*[@id=\"newJobPopup\"]/div/div/div[1]/button/span")
     private WebElement xPopupButton;
 
-    @FindBy (xpath = "//*[@id=\"jobs-table_length\"]/label/select")
+    @FindBy (css = "[name=\"jobs-table_length\"]")
     private WebElement numberOfEntries;
 
     public void select25Entries () {
@@ -38,30 +38,48 @@ public class ScheduledProcesses extends PageBase {
         dropdown.selectByValue("25");
     }
 
-    @FindBy (xpath = "//*[@id=\"jobs-table_filter\"]/label/input")
+    @FindBy (css = "input.form-control.input-sm")
     private WebElement searchField;
 
     public void sendKeysSearchField () {
-        CommonTask.clickElement(driver, searchField, "searchfield");
+        CommonTask.clickElement(driver, searchField, "Search Field");
         CommonTask.sendKeys(searchField, "CNS", "Search Field");
+    }
+
+    public void clearSearchField () {
+        CommonTask.clearElement(searchField, "Search Field");
+    }
+
+    public String expectedPlaceholder = "search ...";
+
+    public String getSearchFieldPlaceholder () {
+        return searchField.getAttribute("placeholder");
     }
 
     public String getTextSearchField () {
         return searchField.getText();
     }
 
-    @FindBy (xpath = "//*[@id=\"jobs-table\"]/thead/tr/th[1]")
+    @FindBy (css = "th.sorting_asc")
     private WebElement sortByName;
 
     public void clickSortByName () {
         CommonTask.clickElement(driver, sortByName, "sortbyname");
     }
 
-    @FindBy (xpath = "//*[@id=\"jobs-table\"]/tbody/tr[1]/td[9]/div/a[1]")
+    @FindBy (css = "tbody > tr:first-child > td:nth-of-type(9) > div > a.label.run_now.editor_edit.label-success")
     private WebElement firstRowRunNowButton;
 
-    @FindBy (xpath = "//*[@id=\"jobs-table\"]/tbody/tr[1]/td[9]/div/a[2]")
+    public boolean firstRunNowIsDisplayed () {
+        return firstRowRunNowButton.isDisplayed();
+    }
+
+    @FindBy (css = "tbody > tr:first-child > td:nth-of-type(9) > div > a:nth-of-type(2)")
     private WebElement firstRowToggleStatusButton;
+
+    public boolean firstToggleButtonIsDisplayed () {
+        return firstRowToggleStatusButton.isDisplayed();
+    }
 
     public void clickToggleStatus () {
         Waiting.elementToBeClickable(driver, firstRowToggleStatusButton,"togglestatus");
@@ -75,7 +93,7 @@ public class ScheduledProcesses extends PageBase {
         return firstRowStatus.getText();
     }
 
-    @FindBy (css = "#jobs-table > tbody > tr:nth-child(1) > td:nth-child(9) > div > a:nth-child(3)")
+    @FindBy (css = "tbody > tr:first-child > td:nth-of-type(9) > div > a:nth-of-type(3)")
     private WebElement firstRowDetailsButton;
 
     public void clickJobDetails1stRow () {
@@ -83,6 +101,9 @@ public class ScheduledProcesses extends PageBase {
         CommonTask.clickElement(driver, firstRowDetailsButton, "details");
     }
 
+    public boolean firstDetailsButtonsIsDisplayed () {
+        return firstRowDetailsButton.isDisplayed();
+    }
     @FindBy (xpath = "//*[@id=\"job-modal\"]/div/div")
     private WebElement jobDetails;
 

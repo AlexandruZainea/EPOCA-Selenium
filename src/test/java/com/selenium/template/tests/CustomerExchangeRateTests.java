@@ -25,7 +25,7 @@ public class CustomerExchangeRateTests extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
+
 
 //    @BeforeClass
 //    public void setup() throws Exception {
@@ -40,6 +40,7 @@ public class CustomerExchangeRateTests extends DriverBase {
 
     @Test(groups = "Test")
     public void addEntry () throws Exception{
+        WebDriver driver = getDriver();
         driver.manage().window().maximize();
 
         driver.get(TestData.exchangeRate);

@@ -22,7 +22,6 @@ public class LanguageChange extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
 
 //    @BeforeClass
 //    public void setup() throws Exception {
@@ -38,6 +37,7 @@ public class LanguageChange extends DriverBase {
 
     @Test(groups = "Test")
     public void EnToRo () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 

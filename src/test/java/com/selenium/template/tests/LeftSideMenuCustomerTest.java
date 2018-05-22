@@ -22,7 +22,6 @@ public class LeftSideMenuCustomerTest extends DriverBase {
 
     private static DesiredCapabilities capabillities;
 
-    private static WebDriver driver;
 
 //    @BeforeClass
 //    public void setup() throws Exception {
@@ -38,6 +37,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
 
     @Test(groups = "Test")
     public void customerSearch () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -65,6 +65,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
 
     @Test(groups = "Test")
     public void specialCommission () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -92,6 +93,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
 
     @Test(groups = "Test")
     public void vat () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -119,6 +121,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
 
         @Test(groups = "Test")
         public void exchangeRate () throws Exception {
+            WebDriver driver = getDriver();
 
             driver.manage().window().maximize();
 
@@ -146,6 +149,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
 
     @Test(groups = "Test")
     public void bulkCreditLimit () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
@@ -172,6 +176,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
 
     @Test(groups = "Test")
     public void setupCreditLimit () throws Exception {
+        WebDriver driver = getDriver();
 
         driver.manage().window().maximize();
 
