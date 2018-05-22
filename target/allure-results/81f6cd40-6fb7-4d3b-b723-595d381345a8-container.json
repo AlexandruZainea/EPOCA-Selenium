@@ -1,1 +1,0 @@
-{"uuid":"81f6cd40-6fb7-4d3b-b723-595d381345a8","name":"com.selenium.template.DriverBase.clearCookies","description":"","start":1524583074718,"stop":1524583074723,"children":["7841ce92-18a5-426d-8d9f-7bb589540147"],"afters":[{"name":"clearCookies","status":"passed","stage":"finished","description":"","start":1524583074718,"stop":1524583074723}]}

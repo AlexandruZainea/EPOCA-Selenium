@@ -40,7 +40,7 @@ public class OMYBalanceReportTest extends DriverBase {
     public void reportIsShown () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.customerSearchEN);
 

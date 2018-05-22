@@ -37,7 +37,7 @@ public class FELoginFailTest extends DriverBase {
     public void loginFail_01() throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.loginPage);
 

@@ -59,8 +59,8 @@
         <methods>
           <include name="instantiateDriverObject"/>
           <include name="changeStatus"/>
-          <include name="clickOnDetails1stRow"/>
           <include name="searchResults"/>
+          <include name="firstRowButtonsAreDisplayed"/>
           <include name="sortCheck"/>
           <include name="closeDriverObjects"/>
           <include name="clearCookies"/>

@@ -33,7 +33,7 @@ public class CustomerSearchTest extends DriverBase {
     public void CustomerSearchClear () throws Exception{
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.customerSearchEN);
 
@@ -62,7 +62,7 @@ public class CustomerSearchTest extends DriverBase {
     public void GenerateReport () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.customerSearchEN);
 
@@ -117,7 +117,7 @@ public class CustomerSearchTest extends DriverBase {
     public void selectEntries () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.customerSearchEN);
 

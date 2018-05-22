@@ -39,7 +39,7 @@ public class LanguageChange extends DriverBase {
     public void EnToRo () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.customerSearchEN);
 

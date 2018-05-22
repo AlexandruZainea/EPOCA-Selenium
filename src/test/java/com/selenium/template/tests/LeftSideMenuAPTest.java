@@ -40,7 +40,7 @@ public class LeftSideMenuAPTest extends DriverBase {
     public void reportHistory () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.search);
 
@@ -68,7 +68,7 @@ public class LeftSideMenuAPTest extends DriverBase {
     public void reportTemplates () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.search);
 
@@ -96,7 +96,7 @@ public class LeftSideMenuAPTest extends DriverBase {
     public void scheduledProcesses () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.search);
 

@@ -41,7 +41,7 @@ public class CustomerExchangeRateTests extends DriverBase {
     @Test(groups = "Test")
     public void addEntry () throws Exception{
         WebDriver driver = getDriver();
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.exchangeRate);
 

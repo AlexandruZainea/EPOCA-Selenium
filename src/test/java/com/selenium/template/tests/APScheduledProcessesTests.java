@@ -36,7 +36,7 @@ public class APScheduledProcessesTests extends DriverBase {
     @Test(groups = "Test")
     public void changeStatus () throws MalformedURLException, Exception {
         WebDriver driver = getDriver();
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.customerSearchEN);
 
@@ -76,7 +76,7 @@ public class APScheduledProcessesTests extends DriverBase {
     @Test(groups = "Test")
     public void searchResults () throws Exception {
         WebDriver driver = getDriver();
-        driver.get(TestData.customerSearchEN);
+//        driver.get(TestData.customerSearchEN);
 
 //        FELoginPage feLoginPage = new FELoginPage(driver);
 //

@@ -43,7 +43,7 @@ public class CustomerVATTest extends DriverBase {
     public void addAnEntry () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.specialCommission);
 
@@ -81,7 +81,7 @@ public class CustomerVATTest extends DriverBase {
     public void deleteEntry () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.specialCommission);
 

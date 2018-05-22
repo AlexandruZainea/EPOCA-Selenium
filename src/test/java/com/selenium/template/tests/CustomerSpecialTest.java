@@ -43,7 +43,7 @@ public class CustomerSpecialTest extends DriverBase {
     public void addPopUp () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.specialCommission);
 
@@ -72,7 +72,7 @@ public class CustomerSpecialTest extends DriverBase {
     public void numberOfEntries() throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.specialCommission);
 
@@ -107,7 +107,7 @@ public class CustomerSpecialTest extends DriverBase {
     public void nextPage () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.specialCommission);
 
@@ -142,7 +142,7 @@ public class CustomerSpecialTest extends DriverBase {
     public void addEntry () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.specialCommission);
 

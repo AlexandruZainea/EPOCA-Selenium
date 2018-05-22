@@ -39,7 +39,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
     public void customerSearch () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.search);
 
@@ -67,7 +67,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
     public void specialCommission () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.search);
 
@@ -95,7 +95,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
     public void vat () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.search);
 
@@ -123,7 +123,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
         public void exchangeRate () throws Exception {
             WebDriver driver = getDriver();
 
-            driver.manage().window().maximize();
+//            driver.manage().window().maximize();
 
             driver.get(TestData.search);
 
@@ -151,7 +151,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
     public void bulkCreditLimit () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.search);
 
@@ -178,7 +178,7 @@ public class LeftSideMenuCustomerTest extends DriverBase {
     public void setupCreditLimit () throws Exception {
         WebDriver driver = getDriver();
 
-        driver.manage().window().maximize();
+//        driver.manage().window().maximize();
 
         driver.get(TestData.search);
 
