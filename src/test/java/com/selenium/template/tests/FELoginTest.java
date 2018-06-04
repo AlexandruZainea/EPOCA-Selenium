@@ -19,17 +19,7 @@ public class FELoginTest extends DriverBase {
     private static DesiredCapabilities capabillities;
 
 
-//    @BeforeClass
-//    public void setup() throws Exception {
-//        capabillities = DesiredCapabilities.chrome();
-//
-//        driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabillities);
-//
-//        capabillities.setBrowserName("chrome");
-//
-//        wait = new WebDriverWait(driver, 6000);
-//
-//    }
+
     @Test(groups = "Test")
     public void LoginSuccessful () throws Exception {
         WebDriver driver = getDriver();

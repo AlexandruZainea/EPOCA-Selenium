@@ -27,16 +27,6 @@ public class CustomerExchangeRateTests extends DriverBase {
 
 
 
-//    @BeforeClass
-//    public void setup() throws Exception {
-//        capabillities = DesiredCapabilities.chrome();
-//
-//        driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabillities);
-//
-//        capabillities.setBrowserName("chrome");
-//
-//
-//    }
 
     @Test(groups = "Test")
     public void addEntry () throws Exception{

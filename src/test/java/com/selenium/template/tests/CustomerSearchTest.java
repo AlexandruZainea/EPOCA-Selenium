@@ -83,35 +83,7 @@ public class CustomerSearchTest extends DriverBase {
         driver.quit();
     }
 
-//    @Test
-//    public void downloadCSV () throws Exception {
-//        WebDriver driver = new ChromeDriver();
-//        driver.manage().window().maximize();
-//
-//        driver.get(TestData.customerSearchEN);
-//
-//        FELoginPage feLoginPage = new FELoginPage(driver);
-//        feLoginPage.inputUsername(TestData.username);
-//        feLoginPage.inputPassword(TestData.password);
-//        feLoginPage.signIn();
-//
-//        CustomerSearch customerSearch = new CustomerSearch(driver);
-//        customerSearch.clickGenerateReport();
-//
-//        customerSearch.waitForDownload();
-//
-//        customerSearch.clickDownloadCSV();
-//
-//        driver.findElement(By.cssSelector("body")).sendKeys(Keys.CONTROL + "t");
-//
-//        driver.get(TestData.DOWNLOADS_TAB);
-//
-//
-//
-//
-//
-//        driver.quit();
-//    }
+
 
     @Test(groups = "Test")
     public void selectEntries () throws Exception {

@@ -76,14 +76,7 @@ public class APScheduledProcessesTests extends DriverBase {
     @Test(groups = "Test")
     public void searchResults () throws Exception {
         WebDriver driver = getDriver();
-//        driver.get(TestData.customerSearchEN);
 
-//        FELoginPage feLoginPage = new FELoginPage(driver);
-//
-//        feLoginPage.inputUsername(TestData.username);
-//        feLoginPage.inputPassword(TestData.password);
-//        feLoginPage.signIn();
-//
         FELeftMenu feLeftMenu = new FELeftMenu(driver);
         feLeftMenu.clickApplicationProcesses();
         feLeftMenu.clickScheduledProcesses();
@@ -109,16 +102,7 @@ public class APScheduledProcessesTests extends DriverBase {
     @Test(groups = "Test")
     public void firstRowButtonsAreDisplayed () throws MalformedURLException, Exception {
         WebDriver driver = getDriver();
-//        driver.manage().window().maximize();
-//
-//        driver.get(TestData.customerSearchEN);
-//
-//        FELoginPage feLoginPage = new FELoginPage(driver);
-//
-//        feLoginPage.inputUsername(TestData.username);
-//        feLoginPage.inputPassword(TestData.password);
-//        feLoginPage.signIn();
-//
+
         FELeftMenu feLeftMenu = new FELeftMenu(driver);
         feLeftMenu.clickApplicationProcesses();
         feLeftMenu.clickScheduledProcesses();
@@ -139,16 +123,8 @@ public class APScheduledProcessesTests extends DriverBase {
     public void sortCheck () throws MalformedURLException, Exception {
         WebDriver driver = getDriver();
 
-//        driver.manage().window().maximize();
-//
-//        driver.get(TestData.customerSearchEN);
-//
-//        FELoginPage feLoginPage = new FELoginPage(driver);
-//
-//        feLoginPage.inputUsername(TestData.username);
-//        feLoginPage.inputPassword(TestData.password);
-//        feLoginPage.signIn();
-//
+
+
         FELeftMenu feLeftMenu = new FELeftMenu(driver);
         feLeftMenu.clickApplicationProcesses();
         feLeftMenu.clickScheduledProcesses();

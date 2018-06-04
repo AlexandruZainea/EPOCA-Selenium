@@ -1,11 +1,80 @@
-2018-05-22 16:01:03 Log4Test [INFO] INFO: " "
-2018-05-22 16:01:03 Log4Test [INFO] INFO: "Local Operating System: WINDOWS 10"
-2018-05-22 16:01:03 Log4Test [INFO] INFO: "Local Architecture: amd64"
-2018-05-22 16:01:03 Log4Test [INFO] INFO: "Selected Browser: chrome"
-2018-05-22 16:01:03 Log4Test [INFO] INFO: "Connecting to Selenium Grid: true"
-2018-05-22 16:01:03 Log4Test [INFO] INFO: " "
-2018-05-22 16:01:03 Log4Test [INFO] INFO: "================= GOING TO USE REMOTE ================="
-2018-05-22 16:01:09 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
-2018-05-22 16:01:15 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
-2018-05-22 16:01:15 Log4Test [INFO] INFO: "- moving to element : userField"
-2018-05-22 16:01:15 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:06:03 Log4Test [INFO] INFO: " "
+2018-05-22 16:06:03 Log4Test [INFO] INFO: "Local Operating System: WINDOWS 10"
+2018-05-22 16:06:03 Log4Test [INFO] INFO: "Local Architecture: amd64"
+2018-05-22 16:06:03 Log4Test [INFO] INFO: "Selected Browser: chrome"
+2018-05-22 16:06:03 Log4Test [INFO] INFO: "Connecting to Selenium Grid: true"
+2018-05-22 16:06:03 Log4Test [INFO] INFO: " "
+2018-05-22 16:06:03 Log4Test [INFO] INFO: "================= GOING TO USE REMOTE ================="
+2018-05-22 16:06:05 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:06:10 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:06:10 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:06:10 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:06:11 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:06:16 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:06:16 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:06:16 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:06:16 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:06:22 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:06:22 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:06:22 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:06:22 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:06:27 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:06:27 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:06:27 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:06:27 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:06:33 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:06:33 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:06:33 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:06:33 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:06:38 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:06:38 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:06:38 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:06:38 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:06:44 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:06:44 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:06:44 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:06:44 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:06:49 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:06:49 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:06:49 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:06:49 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:06:55 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:06:55 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:06:55 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:06:55 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:07:00 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:07:00 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:07:00 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:07:01 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:07:06 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:07:06 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:07:06 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:07:06 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:07:11 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:07:11 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:07:11 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:07:11 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:07:17 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:07:17 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:07:17 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:07:17 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:07:22 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:07:22 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:07:22 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:07:22 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:07:28 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:07:28 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:07:28 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:07:28 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:07:33 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:07:33 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:07:33 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:07:33 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:07:39 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:07:39 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:07:39 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:07:39 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
+2018-05-22 16:07:44 Log4Test [ERROR] ERROR: "Element is not clickable within : 5 seconds" !
+2018-05-22 16:07:44 Log4Test [INFO] INFO: "- moving to element : userField"
+2018-05-22 16:07:44 Log4Test [ERROR] ERROR: "Element is not found : userField" !
+2018-05-22 16:07:44 Log4Test [INFO] INFO: "- waiting for element : userField : to be clickable"
